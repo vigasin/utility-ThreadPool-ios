@@ -1,0 +1,21 @@
+{
+  "name": "utility-ThreadPool-ios",
+  "version": "1.0",
+  "summary": "The thread pool and URL dispatch library",
+  "description": "",
+  "homepage": "https://github.com/vigasin/utility-ThreadPool-ios",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "Some guy": "someg@uy.com"
+  },
+  "source": {
+    "git": "https://github.com/vigasin/utility-ThreadPool-ios.git",
+    "commit": "b755578373925b9c36ba81e0c9706bb1ff5bcd21"
+  },
+  "source_files": "Lightstreamer Thread Pool Library/*.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}
